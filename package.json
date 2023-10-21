@@ -1,0 +1,23 @@
+{
+  "name": "web-profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx http-server --cors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whysofail/profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whysofail/profile/issues"
+  },
+  "homepage": "https://github.com/whysofail/profile#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
